@@ -40,3 +40,5 @@ $ npm start
 - React
 - JavaScript
 - CSS
+
+_Sumber File Desain dari [wegodev](https://www.wegodev.com/)_
