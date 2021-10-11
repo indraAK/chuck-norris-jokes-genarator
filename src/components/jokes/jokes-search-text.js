@@ -19,7 +19,6 @@ const JokesSearchText = ({ onSearch }) => {
         <input
           type="text"
           placeholder="Search jokes by text"
-          className={`input ${styles.inpu}`}
           ref={textInputRef}
         />
       </div>
